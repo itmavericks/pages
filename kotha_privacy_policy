@@ -1,0 +1,136 @@
+# Kotha Privacy Policy
+
+**Effective date:** 30 September 2026
+**Last updated:** 30 September 2026
+
+Kotha ("we", "us", "our") is a reading app for Assamese and other regional-language books. This policy explains what information we collect, why, and the choices you have. By using Kotha you agree to this policy.
+
+**Contact:** info@itmaverickapps.com
+
+---
+
+## 1. Using Kotha as a guest
+
+You can read free books without creating an account. As a guest:
+
+- We do not ask for your name, email or any sign-in.
+- Your bookmarks and reading progress are stored **only on your device**.
+- If you uninstall the app or clear its data, this information is lost.
+
+## 2. Information we collect when you sign in
+
+Signing in is optional. It lets your bookmarks and reading progress sync across devices. If you sign in, we collect:
+
+| Information | Why we collect it |
+|---|---|
+| **Email address** | To sign you in with a one-time code and to identify your account |
+| **Display name and profile picture** (if you add them) | To personalise your profile |
+| **Reading font preference** | To remember how you like to read |
+| **Bookmarks** (which books you saved) | To show your saved books on all your devices |
+| **Reading progress** (your last position in each book) | To let you continue where you left off |
+
+We do not use passwords. Sign-in is by a one-time code sent to your email.
+
+## 3. Information we collect automatically
+
+- **Catalog and reading requests:** when you browse or open a book, your device requests that content from our servers. Standard server logs (such as IP address, device type and timestamps) may be kept briefly for security and troubleshooting.
+- **Aggregate reading activity:** we count how many signed-in readers have opened a book to power sections like "Trending" and "Most Read". These lists show only book-level counts. They never show who the readers are.
+
+- **Usage analytics (Firebase Analytics):** which screens you open, which features you use, app version, device model, operating system, language and approximate location (derived from IP address, not precise GPS). This helps us understand how Kotha is used and improve it.
+- **Crash and performance data (Firebase Crashlytics):** crash reports and error logs, including device model, OS version and app state at the time of the crash. This helps us find and fix bugs.
+- **Advertising data (Google AdMob):** to show ads, Google collects your device's advertising ID, IP address and ad interaction data (see section 6).
+- **Identifiers:** Firebase assigns an app-instance ID to your installation. This is separate from your account and is used for analytics and crash reports, including while you use Kotha as a guest.
+
+## 4. How we use your information
+
+- To provide and operate the app, including sign-in and syncing
+- To remember your preferences
+- To show popular and trending books
+- To understand usage, measure performance and improve the app
+- To detect and fix crashes and bugs
+- To show ads, which help keep Kotha free
+- To keep the service secure, prevent abuse and fix problems
+- To contact you about your account if needed (for example, sign-in emails)
+
+We do **not** sell your personal information. We do **not** share your email address, bookmarks or reading progress with advertisers.
+
+## 5. Syncing guest data when you sign in
+
+When you sign in, bookmarks and reading progress stored on your device as a guest are uploaded to your account so they are not lost.
+
+## 6. Who we share information with
+
+We share information only with service providers who help us run Kotha, and only as needed:
+
+- **Supabase**: hosts our database and authentication (account, bookmarks, reading progress, and sign-in emails).
+- **Cloudflare R2**: stores book images and cover files. No personal account data is stored there.
+- **Google Firebase (Analytics and Crashlytics)**: collects usage and crash data described in section 3. See [Google's privacy policy](https://policies.google.com/privacy) and [Firebase privacy information](https://firebase.google.com/support/privacy).
+- **Google AdMob**: serves ads in the app. Google and its partners may use your advertising ID and device information to show and measure ads, and, where you have allowed it, to personalise them. See [how Google uses data from apps that use its services](https://policies.google.com/technologies/partner-sites).
+
+These providers process data on our behalf under their own security and privacy commitments. We may also disclose information if required by law or to protect the rights and safety of users and Kotha.
+
+## 7. Where your data is stored
+
+Your data is processed and stored on servers operated by our providers, which may be located outside India. We take reasonable steps to protect it wherever it is stored.
+
+## 8. How long we keep your data
+
+- Account data, bookmarks and reading progress are kept while your account is active.
+- When you delete your account, we delete this data from our systems within [30] days, except where we must keep limited records for legal or security reasons.
+- Guest data stays on your device until you remove it or uninstall the app.
+
+## 9. Your choices and rights
+
+You can:
+
+- **Access and correct** your profile information in the app
+- **Remove bookmarks** at any time
+- **Delete your account and data** by [in-app: Profile > Delete account] or by emailing [your-support-email@example.com] from your registered address
+- **Withdraw consent** by signing out or deleting your account
+- **Control ads:** on Android, go to Settings > Google > Ads to reset your advertising ID or opt out of ads personalisation. Kotha also [asks for your consent to personalised ads / offers a privacy choices option in Profile > Privacy]. Opting out does not remove ads, but they will be less relevant.
+- **Limit analytics:** [you can turn off analytics and crash reporting in Profile > Privacy]
+
+Under India's Digital Personal Data Protection Act, 2023, you have the right to access information about your personal data, request correction and erasure, nominate another person to exercise your rights, and raise a grievance. To exercise any of these rights, email us at the address above. We will respond within a reasonable time.
+
+## 10. Children
+
+Kotha is a general reading app and is not directed at children under 13. We do not knowingly collect personal information from children under 18 without verifiable parental consent, and we do not track or show behaviourally targeted (personalised) ads to users we know to be under 18. If you believe a child has given us personal information, contact us and we will delete it.
+
+## 11. Security
+
+We use industry-standard safeguards, including encrypted connections (HTTPS) and access controls on our database. No system is completely secure, so we cannot guarantee absolute security.
+
+## 12. Book content and copyright
+
+The books available in Kotha are in the public domain or made available under an open licence or with the permission of the rights holder. We respect the rights of authors, publishers and their heirs.
+
+If you believe a book in Kotha is being made available in a way that infringes your rights or violates the terms of its licence, please email [your-support-email@example.com] with:
+
+- the title of the book and, if possible, a link or screenshot,
+- a description of your claim and your relationship to the work (author, heir, publisher, etc.),
+- your name and contact details.
+
+We will review your request promptly and, where the claim appears valid, remove the content while we investigate further.
+
+## 13. Changes to this policy
+
+We may update this policy from time to time. If we make material changes, we will update the date above and, where appropriate, notify you in the app. Continued use after changes means you accept the updated policy.
+
+## 14. Grievance and contact
+
+For questions, requests or complaints about your data:
+
+**Email:** info@itmaverickapps.com
+
+
+---
+
+### Notes for you (delete before publishing)
+
+0. **Ads and consent (important):** I assumed Firebase Analytics plus Crashlytics plus AdMob. Delete any you don't actually use. AdMob makes you responsible for legal consent for personalised ads. Use Google's User Messaging Platform (UMP) consent form, and respect the choice. Also, India's DPDP Act requires consent before processing and bars tracking or targeted ads aimed at children. Since there is no age gate, you may want to configure AdMob for non-personalised ads only, or add an age screen. Non-personalised ads are the simpler, safer choice at launch.
+1. **Account deletion:** Google Play requires both an in-app delete option and a public web link or email flow for it. The schema has no delete-account RPC yet, so this needs building. Until then, the email-request wording in section 9 is the fallback, but don't claim an in-app option you don't have.
+2. **Analytics/crash tools:** if the app uses any (Firebase, Sentry, etc.), add them to sections 3 and 6, and match the Play Data Safety form.
+3. **Data Safety form:** it should match this policy: email, name, profile photo, app activity (bookmarks/progress), app interactions, crash logs, diagnostics, device or other IDs (advertising ID), and approximate location. Mark data as shared with Google for advertising and analytics; no data sold.
+4. **Hosting:** publish at a public URL (GitHub Pages, your site, or a Notion page) and link it in the Play Store listing and inside the app (Profile/Login screen).
+5. **Future features:** Google/Apple sign-in, payments (paid tier) or a writer marketplace will each need policy updates.
+6. This is a solid template, not legal advice. Have a lawyer review it before launch if you can.
